@@ -1,0 +1,15 @@
+# IDE configuration folder and file
+.idea
+.vscode
+
+# Binaries for programs and plugins
+*.swp
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+__debug_bin
+*.csv
+
+/pgdata/*
