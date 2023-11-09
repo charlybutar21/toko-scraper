@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 	"database/sql"
-	"gitlab.com/pinvest/toko-scraper/entity"
+	"github.com/charlybutar21/toko-scraper/entity"
 )
 
 type ProductRepository interface {

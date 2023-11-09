@@ -1,9 +1,9 @@
 package service
 
 import (
+	"github.com/charlybutar21/toko-scraper/app"
+	"github.com/charlybutar21/toko-scraper/entity"
 	"github.com/gocolly/colly"
-	"gitlab.com/pinvest/toko-scraper/app"
-	"gitlab.com/pinvest/toko-scraper/entity"
 	"strconv"
 	"sync"
 )

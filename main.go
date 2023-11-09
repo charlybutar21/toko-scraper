@@ -1,11 +1,12 @@
 package main
 
 import (
+	"github.com/charlybutar21/toko-scraper/app"
+	"github.com/charlybutar21/toko-scraper/command"
+	"github.com/charlybutar21/toko-scraper/repository"
+	"github.com/charlybutar21/toko-scraper/service"
 	"github.com/spf13/cobra"
-	"gitlab.com/pinvest/toko-scraper/app"
-	"gitlab.com/pinvest/toko-scraper/command"
-	"gitlab.com/pinvest/toko-scraper/repository"
-	"gitlab.com/pinvest/toko-scraper/service"
+
 	"os"
 )
 

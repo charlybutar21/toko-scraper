@@ -3,8 +3,8 @@ package command
 import (
 	"context"
 	"fmt"
+	"github.com/charlybutar21/toko-scraper/service"
 	"github.com/spf13/cobra"
-	"gitlab.com/pinvest/toko-scraper/service"
 )
 
 func PopulateProducts(scraperService service.ScraperService, productService service.ProductService, csvService service.CSVService) *cobra.Command {

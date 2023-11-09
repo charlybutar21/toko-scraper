@@ -1,6 +1,6 @@
 package service
 
-import "gitlab.com/pinvest/toko-scraper/entity"
+import "github.com/charlybutar21/toko-scraper/entity"
 
 type CSVService interface {
 	WriteProductCSV(products []entity.Product) error

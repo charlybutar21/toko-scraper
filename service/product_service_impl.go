@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 	"database/sql"
-	"gitlab.com/pinvest/toko-scraper/entity"
-	"gitlab.com/pinvest/toko-scraper/repository"
+	"github.com/charlybutar21/toko-scraper/entity"
+	"github.com/charlybutar21/toko-scraper/repository"
 )
 
 type ProductServiceImpl struct {

@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"gitlab.com/pinvest/toko-scraper/entity"
+	"github.com/charlybutar21/toko-scraper/entity"
 )
 
 type ProductService interface {

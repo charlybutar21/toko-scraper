@@ -2,7 +2,7 @@ package service
 
 import (
 	"encoding/csv"
-	"gitlab.com/pinvest/toko-scraper/entity"
+	"github.com/charlybutar21/toko-scraper/entity"
 	"os"
 )
 
